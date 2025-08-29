@@ -1,2 +1,231 @@
 # -my-website
 about Ethiopia
+<!DOCTYPE html>
+<html>
+<head>
+<title>About me </title>
+<style>
+.p1{ 
+display:flex;
+justify-content:right;
+margin-left:40px;
+padding:40px;
+border-radius:20px;
+background color=
+color:white;
+}
+img {border-radius:20px;
+}
+#river{height: 400px;}
+p {
+margin-left:40px;
+color:white;}
+.button {
+display:inline-block;
+padding:12PX 24px;
+font size:16px;
+font family:arial,sans-serif;
+text-aling:center;
+text-decoration:none;
+background-color:orange;
+color:black;
+border:none;
+border-radius:40px;
+cursor:pointer;
+transition:all 0.3s ease;
+}
+.button:hover {
+background-color:#45a049
+transform:scale(1.05);
+box-shadow:0 2px 8px rgba(0, 0, 0.2);
+}
+h3 {color:blue;}
+table {border:24px solid green;padding:10px; margin:5px;}
+td{border:24px color:orange; padding:10px margin:5px;}
+font-family:Comic Sans MS;
+font-size:24px;}
+color:purple;
+text-align:center;}
+</style>
+</head>
+<body style="background-color:grey;">
+<a href="https://youtu.be/HGNW-RIApf8?si=99ajieUZpHWpmAzr" Alt="this is ethiopia">click here for ethiopia full info </a><hr><br>
+<h1><em> About </em> </h1>
+<a href="#hobbies" id="about" class= "button">About</a>
+<h1><em> Home </em> </h1>
+<h2><em> This is Home</em></h2>
+<div class="p1">
+<img src="yone.jpg" id="river">
+<p "style=color:white";><em>Here are short notes about Ethiopia:
+Location: Ethiopia is in the Horn of Africa, bordered by Eritrea, Djibouti, Somalia, Kenya, South Sudan, and Sudan.
+Capital city: Addis Ababa.
+Population: Over 120 million people, making it the second most populous country in Africa.
+History: One of the world’s oldest nations, known for the Kingdom of Aksum and ancient civilization. Ethiopia is the only African country never fully colonized (except brief Italian occupation).
+Religion: Mainly Christianity (Ethiopian Orthodox), Islam, and traditional beliefs.
+Languages: Over 80 languages; Amharic is the official working language.
+Culture: Rich traditions in music, dance, coffee ceremony, and festivals like Meskel and Timket.
+Heritage: Home to 9 UNESCO World Heritage Sites, including Lalibela rock-hewn churches, Aksum obelisks, and Harar Jugol.
+Nature: Known for the Great Rift Valley, Simien Mountains, Blue Nile River, and unique wildlife.
+Economy: Agriculture-based, famous for coffee (its birthplace), teff (used for injera), and livestock.
+Flag: Green (land), yellow (peace), red (sacrifice), with a star symbolizing unity.</em></p>
+
+
+</div>
+<a href="#contact" id="hobbies" class= "button">Hobbies </a>
+<h1> <em>About </em> </h1>
+<h2><em> This is about</em></h2>
+<div class="p2">
+<img src="jj.jpg"
+<h1><em> about nile river</em> </h1>
+<p><em> my name is ewnet birhan I Am 12 years old now i am gone tell you about nile river here’s the full detailed guide on the Nile River, with history, geography, and cultural facts.
+1. Basic Facts
+Length: ~6,650 km (4,130 miles) — considered the world’s longest river.
+Average Width: 2.8 km (varies by location).
+Drainage Basin: ~3.4 million km² (covers 10% of Africa’s area).
+Countries it passes through: 
+Burundi
+Rwanda
+Uganda
+Tanzania
+South Sudan
+Sudan
+Egypt
+(Its basin also reaches Kenya, Ethiopia, the Democratic Republic of Congo, and Eritrea.)
+2. Sources of the Nile
+The Nile has two main tributaries:
+White Nile
+Starts from Lake Victoria (in Uganda, Tanzania, and Kenya).
+Flows through Uganda and South Sudan.
+Considered the longest branch.
+Blue Nile
+Originates from Lake Tana in Ethiopia.
+Brings most of the Nile’s water (about 80–90%) during the rainy season.
+Joins the White Nile at Khartoum, Sudan.
+3. Course of the River
+Source Region – Central and East Africa (Great Lakes & Ethiopian Highlands).
+Upper Nile – From Uganda through South Sudan.
+Middle Nile – From Sudan into Egypt, with deserts on both sides.
+Lower Nile – In Egypt, splits into branches forming the Nile Delta.
+Mouth – Flows into the Mediterranean Sea.
+4. Historical Importance
+The Nile is the lifeline of ancient Egypt — without it, the region would be desert.
+Ancient Egyptians depended on its annual floods to water and fertilize crops.
+Many ancient cities (Luxor, Thebes, Memphis) were built along its banks.
+The river enabled transportation, trade, and cultural exchange for thousands of years.
+5. Modern Importance
+Still crucial for agriculture, drinking water, fishing, and hydroelectric power.
+Major dams: 
+Aswan High Dam (Egypt) — controls flooding, generates power.
+Grand Ethiopian Renaissance Dam (GERD) — under construction in Ethiopia on the Blue Nile.
+6. Interesting Facts
+The Blue Nile Falls in Ethiopia is called Tis Issat (“The Water That Smokes”).
+Ancient Egyptians called the Nile "Iteru" meaning “Great River.”
+The Nile Delta in Egypt is one of the most fertile places in the world.
+The river has crocodiles, hippos, and over 100 species of fish.
+If you want, I can also make you a detailed map showing the Nile’s full journey from Lake Victoria and Lake Tana all the way to the Mediterranean if you want to see ethiopia come and see it </em></p>
+</div>
+<a href="#home" id="contact" class= "button">Contact </a>
+<h1><em> Hobbies </em></h1>
+<h2><em> This is hobbies</em></h2>
+<th> <em> hobbies I like </em></th>
+<ul><li>Coding</li></ul>
+<ul><li> Football and seeing ronaldo match  </li></ul>
+<ul><li>Bike</li></ul>
+<h1> <em> About ethiopia heritage</em> </h1>
+<p><em> Ethiopia’s Heritage – Timeless Treasures of the Land of Origins
+
+Ethiopia’s heritage is one of the richest in the world, blending ancient history, spiritual traditions, and cultural diversity. As the only African country never colonized, Ethiopia has preserved its identity for thousands of years, offering visitors a glimpse into a living history.
+
+Cultural & Historical Heritage
+
+Lalibela Rock-Hewn Churches – 12 medieval churches carved from solid rock, a UNESCO World Heritage Site, and a symbol of Ethiopian Christian faith.
+
+Axum – The ancient capital of the Axumite Empire, home to towering stone obelisks, royal tombs, and legends of the Ark of the Covenant.
+
+Gondar Castles – Known as the “Camelot of Africa,” these 17th-century stone castles stand as a reminder of Ethiopia’s imperial glory.
+
+
+Spiritual & Religious Heritage
+
+Timket Festival – A vibrant Epiphany celebration where colorful processions, chants, and water blessings bring communities together.
+
+Meskel Festival – A 1,600-year-old Christian tradition marking the finding of the True Cross with bonfires, music, and dance.
+
+Ge’ez Script – One of the world’s oldest written languages, still used in Ethiopian Orthodox religious texts.
+
+
+Natural & Living Heritage
+
+Lake Tana Monasteries – Sacred islands preserving centuries-old manuscripts, religious paintings, and treasures.
+
+The Coffee Ceremony – Ethiopia’s gift to the world, where freshly roasted coffee is shared as a symbol of friendship and hospitality.
+
+The Simien Mountains – A UNESCO World Heritage Site where breathtaking landscapes meet rare wildlife.
+
+
+Ethiopia’s heritage is not only preserved in monuments and festivals — it is alive in the music, food, language, and warm hospitality of its people. Every site, story, and tradition reflects the resilience and pride of a nation that continues to inspire the world</em></p>
+<h1><em> 1.lalibela</em></h1>
+<img src="pupe.jpg">
+<a href= "https://youtu.be/JTpvaw6ywbE?si=5IT_Ut-BCaDJQRr7" Alt="this is lalibela ">  "click here for lalibela Docmentery" </a><hr><br>
+<h1><em> About lalibela</em> </h1>
+<p><em>Lalibela – Ethiopia’s Extraordinary Rock-Hewn Churches and Spiritual Heart
+
+Lalibela, nestled in the rugged highlands of the Lasta Mountains in northern Ethiopia, stands as one of the world’s most remarkable historical and religious sites. Famous for its complex of 11 monolithic churches, Lalibela is a unique example of medieval engineering, artistry, and religious devotion, carved entirely out of solid volcanic rock between the late 12th and early 13th centuries.
+
+Historical Background
+
+The construction of Lalibela’s churches is attributed to King Lalibela, ruler of the Zagwe dynasty, who reigned from around 1181 to 1221 AD. According to Ethiopian tradition, King Lalibela sought to create a "New Jerusalem" for Ethiopian Christians after Muslim conquests made pilgrimage to the Holy Land increasingly difficult. The site was intended as a spiritual center where believers could experience the sacredness of Jerusalem without leaving their homeland.
+
+Architectural Marvel
+
+The churches of Lalibela were hewn from the rock in a bold and innovative technique that involved carving downward from the surface of the ground into the volcanic tuff rock, rather than building upward with stones. This created free-standing monolithic structures surrounded by trenches and connected by a series of tunnels, narrow passageways, and tunnels that form a labyrinthine spiritual complex.
+
+The 11 churches are grouped into three main clusters:
+
+Northern Group: Including Bete Medhane Alem (the House of the Savior of the World), believed to be the largest monolithic church globally, known for its massive size and basilica-like design.
+
+Western Group: Houses churches like Bete Giyorgis (Church of St. George), famous for its perfectly symmetrical cross-shaped design and stunning isolation from the other churches, carved into a single block of stone.
+
+Eastern Group: Includes smaller churches such as Bete Amanuel and Bete Abba Libanos, each with unique architectural and artistic features.
+
+
+The churches feature intricate carvings, windows, doors, and symbolic decorations reflecting biblical stories and Ethiopian Orthodox Christian theology. The entire complex is designed to evoke religious symbolism and replicate holy sites in Jerusalem, such as the River Jordan, which is represented by a trench separating two groups of churches.
+
+Religious and Cultural Significance
+
+Lalibela remains a vibrant religious site, active for centuries and continuing to be a pilgrimage destination for Ethiopian Orthodox Christians. Pilgrims from across Ethiopia and beyond travel to Lalibela, especially during important religious festivals.
+
+The most significant celebration is Timket (Epiphany), held every January 19th (or 20th in a leap year). During Timket, thousands of worshippers gather to reenact the baptism of Jesus Christ, with priests carrying ornate Tabots (replicas of the Ark of the Covenant) from each church in colorful, solemn processions. The celebration includes chanting, drumming, and traditional dances, creating an unforgettable spiritual atmosphere.
+
+UNESCO World Heritage Recognition
+
+In 1978, Lalibela was designated as a UNESCO World Heritage Site, recognized for its outstanding universal value as a masterpiece of human creative genius and religious devotion. The site exemplifies Ethiopia’s unique contribution to world cultural heritage, preserving architectural ingenuity, religious continuity, and artistic traditions that span over 800 years.
+
+Visiting Lalibela
+
+Today, Lalibela attracts tourists, scholars, and pilgrims from around the globe who come to marvel at its architectural wonders, experience its deep spiritual energy, and learn about Ethiopia’s rich Christian history. Visitors can explore the churches, guided by knowledgeable local experts, and witness daily religious rituals that have remained largely unchanged for centuries.The best time to visit is during the dry season (October to March), with the Timket festival offering the most vibrant and culturally rich experience. Travelers are encouraged to dress respectfully, as Lalibela remains a living religious center where worship and reverence areparamount<em></p>
+<h1><em>about meskel</em> </h1>
+<h2><em>2.meskel</em><h2>
+<img src="roast.jpg"
+<p><em>Meskel Adebabay is the central square of Addis Ababa, Ethiopia’s capital city. The name means “Meskel Square” in Amharic, taken from the word Meskel (መስቀል), which means “cross” and refers to the famous Meskel Festival, a Christian holiday that celebrates the finding of the True Cross by Queen Helena (Empress Eleni) in the 4th century.
+🏛️ Historical and Cultural Importance
+The square has long been the heart of public life in Addis Ababa.
+It is most famous for hosting the annual Meskel celebration every September 27 (or 28 in leap years). During this festival, a giant Demera (bonfire) is lit in the square, symbolizing the revelation of the True Cross. Thousands of people gather—priests in colorful robes, choirs, dancers, and citizens carrying candles—to celebrate.
+Meskel Adebabay also hosts political rallies, concerts, parades, and public events, making it not only a religious landmark but also a national gathering space.
+🏟️ Modern Role
+Over time, Meskel Adebabay has become a multipurpose square, serving as a central hub for both culture and transport.
+It is located at the intersection of main roads and light rail lines, making it one of the busiest places in Addis Ababa.
+Large crowds also gather here during national holidays, demonstrations, sporting events, and even New Year celebrations.
+🌟 Symbolic Value
+For Ethiopian Orthodox Christians, the square represents faith and tradition, since the Meskel Festival is one of the most significant religious celebrations in Ethiopia.
+For Addis Ababa and the country at large, Meskel Adebabay is a symbol of unity, where people from different regions, cultures, and religions come together.
+✨ In short:
+Meskel Adebabay is more than just a square—it is the living center of Addis Ababa, combining religious heritage, cultural pride, and public life. It is a place where Ethiopia’s history, faith, and modern identity meet.</em></p>
+<a href="#about" id="home" class= "button">Home</a>
+<h1> Contact  </h1>
+<h2> Contact me for full information </h2>
+<h3> My phone number is: 0984238503</h3>
+<h3>  My Email is: ewnetbirhanmummy@gmail.com </h3>
+<a href="https://t.me/Ewiman2060" id="about" class= "button">Telegram</a></p>
+</body>
+</html>
